@@ -2235,6 +2235,12 @@ header.black{
     }
 }
 
+@media only screen and (max-height: 568px) {
+    .heading{
+        margin-top: 90px;
+    }
+}
+
 @media only screen and (max-height: 374px) {
     .heading{
         margin-top: 265px;
