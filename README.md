@@ -1,1 +1,1 @@
-# Ljqu0r.github.io/tajam
+# ljqu0r.github.io
